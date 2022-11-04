@@ -4,3 +4,4 @@
 3) Write a program in C++ to check whether a number is prime or not.!<br>
 4) Number Guessing Game with c++.<br>
 5) Write a Program to find factorial, take input from the user. in c<br>
+6) Write a Python program to reverse a string.  Sample String : "LetsUpgrade" <br>
